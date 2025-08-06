@@ -70,20 +70,8 @@ Please fork the repository and submit a pull request with your improvements or b
 
 ---
 
-## License
+## Acknowledgments
 
-This project is licensed under the **MIT License**.  
-See the [`LICENSE`](LICENSE) file for details.
-
----
-
-## Contact
-
-For questions or support, please contact:
-
-- **Your Name** — your.email@example.com  
-- **GitHub:** [https://github.com/yourusername](https://github.com/yourusername)
-
----
-
-*Made with ❤️ for easy and effective YouTube video management.*
+- Thanks to the Python and SQLite developer communities for their excellent documentation and open-source tools.
+- Inspired by countless CLI and productivity apps focusing on user-friendly local storage.
+- Special appreciation to contributors and users who provide feedback and improvements to the project.
